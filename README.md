@@ -43,6 +43,7 @@ Each record includes:
 
 This is the projet structure cible, It will be populated as the project advances:
 
+```bash
 motor-temp-forecasting/
 │── data/ # Raw and processed datasets
 │── docs/ # Documentation and bibliography
@@ -54,6 +55,7 @@ motor-temp-forecasting/
 │── environment.yml # Conda environment
 │── LICENSE # Open-source license (MIT)
 │── README.md # Project documentation
+```
 
 ## ⚙️ Installation
 
