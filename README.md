@@ -6,7 +6,7 @@
 
 This project explores and investigates the thermal behavior of a **Permanent Magnet Synchronous Motor (PMSM)** using real-world sensor data and time-series machine learning techniques.  
 
-The operating temperature of electric machines is a key factor for their performance and reliability. Excessive heating increases resistance in windings and accelerates insulation aging. Since direct measurement of these temperatures is often impractical or costly, there is strong motivation to develop **virtual sensors** — machine learning models capable of reliably forecasting the thermal behavior of the motor.
+The operating temperature of electric machines is a key factor for their performance and reliability. Excessive heating increases resistance in windings and accelerates insulation aging. Since direct measurement of these temperatures is often impractical or costly, there is strong motivation to develop **virtual sensors**, machine learning models capable of reliably forecasting the thermal behavior of the motor.
 
 My motivation for this work comes from an interest in **applied machine learning grounded in physical systems**. The project combines:  
 - **Physics-informed reasoning** (heat transfer, electrical losses, torque–speed dynamics).  
@@ -61,8 +61,8 @@ motor-temp-forecasting/
 
 **1. Clone the repository**
 ```bash
-   git clone https://github.com/davidmayal23/motor_temperature_forecasting.git
-   cd motor_temperature_forecasting
+   git clone https://github.com/davidmayal23/motor-temperature-forecasting.git
+   cd motor-temperature-forecasting
 ```
 **2. Set up the environment**
 Use `conda` or `pip` to install the necessary dependencies.

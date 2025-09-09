@@ -169,10 +169,16 @@ docs/
 experiments/
 models/
 reports/
-src/
 tests/
 notebooks/02_preprocessing.ipynb
 notebooks/03_baseline_models.ipynb
 notebooks/04_dl_models.ipynb
 notebooks/05_model_compression.ipynb
 notebooks/06_results_dashboard.ipynb
+src/__init__.py
+src/config.py
+src/data_loader.py
+src/evaluate.py
+src/features.py
+src/models.py
+src/train.py
